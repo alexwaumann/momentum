@@ -1,0 +1,9 @@
+# ignore artifacts:
+build
+coverage
+
+# ignore all HTML files:
+**/*.html
+
+# ignore generate routeTree.gen.ts
+**/routeTree.gen.ts
